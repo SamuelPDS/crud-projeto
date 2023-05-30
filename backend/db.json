@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mesa",
+      "price": 500.5
+    },
+    {
+      "id": 2,
+      "name": "Cadeira",
+      "price": 149.9
+    },
+    {
+      "id": 3,
+      "name": "Forro de mesa",
+      "price": 49.9
+    },
+    {
+      "name": "talher",
+      "price": "29.90",
+      "id": 4
+    },
+    {
+      "name": "Teste",
+      "price": 145.3,
+      "id": 5
+    },
+    {
+      "name": "Monitor",
+      "price": "599.90",
+      "id": 6
+    },
+    {
+      "name": "Cadeira",
+      "price": "50.00",
+      "id": 7
+    },
+    {
+      "name": "Geladeira",
+      "price": "1499.00",
+      "id": 8
+    },
+    {
+      "name": "Cama",
+      "price": "649.90",
+      "id": 9
+    },
+    {
+      "name": "Celular",
+      "price": "2499.90",
+      "id": 10
+    },
+    {
+      "name": "Fone de Ouvido",
+      "price": "500.30",
+      "id": 11
+    },
+    {
+      "name": "cadeira",
+      "price": "500.99",
+      "id": 12
+    }
+  ]
+}

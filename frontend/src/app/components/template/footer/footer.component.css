@@ -1,0 +1,12 @@
+.footer {
+    position: fixed;
+    background-color: white; 
+    bottom: 0;
+    right: 0;
+    justify-content: right;
+    color: black;
+    
+} 
+.footer span {
+    font-size: 0.8em;
+}
