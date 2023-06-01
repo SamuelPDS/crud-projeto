@@ -1,23 +1,13 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Mesa",
-      "price": 500.5
-    },
-    {
-      "id": 2,
-      "name": "Cadeira",
-      "price": 149.9
-    },
-    {
       "id": 3,
       "name": "Forro",
-      "price": 49.9
+      "price": "49.50"
     },
     {
       "name": "talher",
-      "price": "29.90",
+      "price": "29.99",
       "id": 4
     },
     {
@@ -54,6 +44,41 @@
       "name": "Colchão",
       "price": "499.99",
       "id": 11
+    },
+    {
+      "name": "Micro-ondas",
+      "price": "349.90",
+      "id": 12
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 14
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 15
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 16
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 17
+    },
+    {
+      "name": "",
+      "price": 0,
+      "id": 18
     }
   ]
 }

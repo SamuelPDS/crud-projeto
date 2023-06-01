@@ -11,7 +11,13 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;}
     vertical-align: middle;
 }
 
-.fontgeral{
-    color:white;
+
+.msg-done{
+    background-color: #28a745;
+    color: #fff;
 }
 
+.msg-erro{
+    background-color: red;
+    color: #fff;
+}

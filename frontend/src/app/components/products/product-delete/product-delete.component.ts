@@ -27,7 +27,7 @@ if (id!=null){
 
 deleteProd(): void{
   this.productService.delete(this.product).subscribe(() => {
-    this.productService.showMessage('Produto ecluído!')
+    this.productService.showMessage('Produto excluído!')
     this.router.navigate(['/products'])
   })
 }
