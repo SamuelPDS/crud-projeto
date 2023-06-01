@@ -1,0 +1,30 @@
+input{
+    text-align: center;
+}
+.card{
+    width: 60%;
+    display: inline-block;
+    left: 200px; 
+    text-align: center;
+}
+.box{
+    width: 200px;
+}
+
+p{
+    
+    color: white;
+}
+
+h1 {
+    
+    color:white ;
+}
+
+button{
+    width: 80px;
+}
+
+
+
+

@@ -12,7 +12,7 @@
     },
     {
       "id": 3,
-      "name": "Forro de mesa",
+      "name": "Forro",
       "price": 49.9
     },
     {
@@ -21,7 +21,7 @@
       "id": 4
     },
     {
-      "name": "Teste",
+      "name": "Travesseiro",
       "price": 145.3,
       "id": 5
     },
@@ -51,14 +51,9 @@
       "id": 10
     },
     {
-      "name": "Fone de Ouvido",
-      "price": "500.30",
+      "name": "Colchão",
+      "price": "499.99",
       "id": 11
-    },
-    {
-      "name": "cadeira",
-      "price": "500.99",
-      "id": 12
     }
   ]
 }

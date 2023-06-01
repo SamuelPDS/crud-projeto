@@ -9,18 +9,21 @@ import { Component, OnInit } from '@angular/core';
 })
 
 export class ProductReadComponent implements OnInit {
+  delete(id: number | undefined) {
+    throw new Error('Method not implemented.');
+  }
   products: Product[] = [];
   displayedColumns = ['id', 'name', 'price', 'actions']
 
 
-  constructor(private ProductService: ProductService, ){}
-  
-    ngOnInit(): void {
-this.ProductService.read().subscribe(products => {
-  this.products= products
-  console.log(products)
-})
-    }
-  
+  constructor(private ProductService: ProductService,) { }
+
+  ngOnInit(): void {
+    this.ProductService.read().subscribe(products => {
+      this.products = products
+      console.log(products)
+    })
+  }
+
 
 }
