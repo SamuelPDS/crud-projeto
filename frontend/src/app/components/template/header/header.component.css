@@ -1,24 +1,24 @@
 .header {
-    display: flex;
-    align-items: center;    
+    padding: 0px, 0px, 0px, 50px;
 background-color: black;
 }
 
-.header a {
+a {
     display: flex;
     align-items: center;
     text-decoration: none;
+    color: #fff;
 }
 
-.header .logo {
+.logo {
     max-height: 65px;
 }
 
-.header .tittle-group {
-    padding-left: 500px;
+
+
+.material-icons{
+    padding-right: 5px;
+    padding-left: 50px;
 }
 
-.header .tittle-group i{
-    padding-right: 10px;
-}
 
